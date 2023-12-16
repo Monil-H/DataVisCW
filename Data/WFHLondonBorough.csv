@@ -1,0 +1,34 @@
+AreaCode,Borough,MethodCode,TravelMethod,Observation
+E09000001,City of London,1,Work mainly at or from home,3602
+E09000002,Barking and Dagenham,1,Work mainly at or from home,19572
+E09000003,Barnet,1,Work mainly at or from home,79628
+E09000004,Bexley,1,Work mainly at or from home,40692
+E09000005,Brent,1,Work mainly at or from home,48987
+E09000006,Bromley,1,Work mainly at or from home,75511
+E09000007,Camden,1,Work mainly at or from home,58110
+E09000008,Croydon,1,Work mainly at or from home,70976
+E09000009,Ealing,1,Work mainly at or from home,63137
+E09000010,Enfield,1,Work mainly at or from home,44977
+E09000011,Greenwich,1,Work mainly at or from home,57959
+E09000012,Hackney,1,Work mainly at or from home,66844
+E09000013,Hammersmith and Fulham,1,Work mainly at or from home,51319
+E09000014,Haringey,1,Work mainly at or from home,55767
+E09000015,Harrow,1,Work mainly at or from home,45175
+E09000016,Havering,1,Work mainly at or from home,41654
+E09000017,Hillingdon,1,Work mainly at or from home,45193
+E09000018,Hounslow,1,Work mainly at or from home,45047
+E09000019,Islington,1,Work mainly at or from home,64530
+E09000020,Kensington and Chelsea,1,Work mainly at or from home,40010
+E09000021,Kingston upon Thames,1,Work mainly at or from home,39251
+E09000022,Lambeth,1,Work mainly at or from home,91770
+E09000023,Lewisham,1,Work mainly at or from home,69977
+E09000024,Merton,1,Work mainly at or from home,48419
+E09000025,Newham,1,Work mainly at or from home,47737
+E09000026,Redbridge,1,Work mainly at or from home,49406
+E09000027,Richmond upon Thames,1,Work mainly at or from home,57322
+E09000028,Southwark,1,Work mainly at or from home,80842
+E09000029,Sutton,1,Work mainly at or from home,38024
+E09000030,Tower Hamlets,1,Work mainly at or from home,78219
+E09000031,Waltham Forest,1,Work mainly at or from home,52765
+E09000032,Wandsworth,1,Work mainly at or from home,107639
+E09000033,Westminster,1,Work mainly at or from home,56766
