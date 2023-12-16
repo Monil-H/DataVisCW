@@ -254,3 +254,65 @@ engWalesRegionsTotalBar2 =
         , bar [ maFillOpacity 0.75 , maStroke "black",maStrokeWidth 0.2 ]
         ]
 ```
+
+```elm {l}
+data =
+    dataFromUrl "https://gicentre.github.io/data/westMidlands/westMidsCrimesAggregated.tsv" []
+
+data2 =
+            dataFromUrl "https://raw.githubusercontent.com/Monil-H/DataVisCW/main/Data/EngWalesRegionsTravelMethods.csv"
+
+crimeColours2 =
+    categoricalDomainMap
+        [ ( "Anti-social behaviour", "rgb(59,118,175)" )
+        , ( "Burglary", "rgb(81,157,62)" )
+        , ( "Criminal damage and arson", "rgb(141,106,184)" )
+        , ( "Drugs", "rgb(239,133,55)" )
+        , ( "Robbery", "rgb(132,88,78)" )
+        , ( "Vehicle crime", "rgb(213,126,190)" )
+        ]
+
+crimeColours3 =
+    categoricalDomainMap
+        [ ( "Work mainly at or from home", "rgb(59,118,175)" )
+        , ( "Underground, metro, light rail, tram", "rgb(81,157,62)" )
+        , ( "Train", "rgb(141,106,184)" )
+        , ( "Bus, minibus or coach", "rgb(239,133,55)" )
+        , ( "Taxi", "rgb(132,88,78)" )
+        , ( "Motorcycle, scooter or moped", "rgb(213,126,190)" )
+        , ( "Driving a car or van", "rgb(255,0,0)" ) -- You can choose a different color
+        , ( "Passenger in a car or van", "rgb(255,255,0)" ) -- You can choose a different color
+        , ( "Bicycle", "rgb(0,0,255)" ) -- You can choose a different color
+        , ( "On foot", "rgb(255,165,0)" ) -- You can choose a different color
+        , ( "Other method of travel to work", "rgb(128,0,128)" ) -- You can choose a different color
+        , ( "Not in employment or aged 15 years and under", "rgb(169,169,169)" ) -- You can choose a different color
+        ]
+```
+
+```elm {v l highlight=9}
+facetBars : Spec
+facetBars =
+    let
+        enc =
+            encoding
+                << position X [ pName "month", pTemporal, pTitle "" ]
+                << position Y [ pName "reportedCrimes", pAggregate opSum ]
+                << color [ mName "crimeType", mScale crimeColours, mLegend [] ]
+                << column [ fName "crimeType", fHeader [ hdTitleFontSize 0 ] ]
+    in
+    toVegaLite [ height 100, width 120, data, bar [], enc [] ]
+```
+
+```elm {v l highlight=9}
+facetBars2 : Spec
+facetBars2 =
+    let
+        enc =
+            encoding
+                << position X [ pName "RegionName", pNominal, pTitle "RegionName" ]
+                << position Y [ pName "Observation", pAggregate opSum ]
+                << color [ mName "MethodCode", mScale crimeColours3, mLegend [] ]
+                << column [ fName "MethodCode", fHeader [ hdTitleFontSize 0 ] ]
+    in
+    toVegaLite [ height 100, width 120, data2 [], bar [], enc [] ]
+```
