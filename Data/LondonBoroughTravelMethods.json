@@ -1,0 +1,2774 @@
+[
+    {
+      "AreaCode": "E09000001",
+      "Borough": "City of London",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 3602
+    },
+    {
+      "AreaCode": "E09000001",
+      "Borough": "City of London",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 349
+    },
+    {
+      "AreaCode": "E09000001",
+      "Borough": "City of London",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 95
+    },
+    {
+      "AreaCode": "E09000001",
+      "Borough": "City of London",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 132
+    },
+    {
+      "AreaCode": "E09000001",
+      "Borough": "City of London",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 21
+    },
+    {
+      "AreaCode": "E09000001",
+      "Borough": "City of London",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 13
+    },
+    {
+      "AreaCode": "E09000001",
+      "Borough": "City of London",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 124
+    },
+    {
+      "AreaCode": "E09000001",
+      "Borough": "City of London",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 13
+    },
+    {
+      "AreaCode": "E09000001",
+      "Borough": "City of London",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 191
+    },
+    {
+      "AreaCode": "E09000001",
+      "Borough": "City of London",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 758
+    },
+    {
+      "AreaCode": "E09000001",
+      "Borough": "City of London",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 54
+    },
+    {
+      "AreaCode": "E09000001",
+      "Borough": "City of London",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 3232
+    },
+    {
+      "AreaCode": "E09000002",
+      "Borough": "Barking and Dagenham",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 19572
+    },
+    {
+      "AreaCode": "E09000002",
+      "Borough": "Barking and Dagenham",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 15301
+    },
+    {
+      "AreaCode": "E09000002",
+      "Borough": "Barking and Dagenham",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 8660
+    },
+    {
+      "AreaCode": "E09000002",
+      "Borough": "Barking and Dagenham",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 9690
+    },
+    {
+      "AreaCode": "E09000002",
+      "Borough": "Barking and Dagenham",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 542
+    },
+    {
+      "AreaCode": "E09000002",
+      "Borough": "Barking and Dagenham",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 599
+    },
+    {
+      "AreaCode": "E09000002",
+      "Borough": "Barking and Dagenham",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 30732
+    },
+    {
+      "AreaCode": "E09000002",
+      "Borough": "Barking and Dagenham",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 2392
+    },
+    {
+      "AreaCode": "E09000002",
+      "Borough": "Barking and Dagenham",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 1218
+    },
+    {
+      "AreaCode": "E09000002",
+      "Borough": "Barking and Dagenham",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 4464
+    },
+    {
+      "AreaCode": "E09000002",
+      "Borough": "Barking and Dagenham",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 1416
+    },
+    {
+      "AreaCode": "E09000002",
+      "Borough": "Barking and Dagenham",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 124280
+    },
+    {
+      "AreaCode": "E09000003",
+      "Borough": "Barnet",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 79628
+    },
+    {
+      "AreaCode": "E09000003",
+      "Borough": "Barnet",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 20758
+    },
+    {
+      "AreaCode": "E09000003",
+      "Borough": "Barnet",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 4690
+    },
+    {
+      "AreaCode": "E09000003",
+      "Borough": "Barnet",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 15090
+    },
+    {
+      "AreaCode": "E09000003",
+      "Borough": "Barnet",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 872
+    },
+    {
+      "AreaCode": "E09000003",
+      "Borough": "Barnet",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 1197
+    },
+    {
+      "AreaCode": "E09000003",
+      "Borough": "Barnet",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 46797
+    },
+    {
+      "AreaCode": "E09000003",
+      "Borough": "Barnet",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 3169
+    },
+    {
+      "AreaCode": "E09000003",
+      "Borough": "Barnet",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 2162
+    },
+    {
+      "AreaCode": "E09000003",
+      "Borough": "Barnet",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 9361
+    },
+    {
+      "AreaCode": "E09000003",
+      "Borough": "Barnet",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 2451
+    },
+    {
+      "AreaCode": "E09000003",
+      "Borough": "Barnet",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 203170
+    },
+    {
+      "AreaCode": "E09000004",
+      "Borough": "Bexley",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 40692
+    },
+    {
+      "AreaCode": "E09000004",
+      "Borough": "Bexley",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 2838
+    },
+    {
+      "AreaCode": "E09000004",
+      "Borough": "Bexley",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 12164
+    },
+    {
+      "AreaCode": "E09000004",
+      "Borough": "Bexley",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 7763
+    },
+    {
+      "AreaCode": "E09000004",
+      "Borough": "Bexley",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 688
+    },
+    {
+      "AreaCode": "E09000004",
+      "Borough": "Bexley",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 767
+    },
+    {
+      "AreaCode": "E09000004",
+      "Borough": "Bexley",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 42503
+    },
+    {
+      "AreaCode": "E09000004",
+      "Borough": "Bexley",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 2919
+    },
+    {
+      "AreaCode": "E09000004",
+      "Borough": "Bexley",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 995
+    },
+    {
+      "AreaCode": "E09000004",
+      "Borough": "Bexley",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 5258
+    },
+    {
+      "AreaCode": "E09000004",
+      "Borough": "Bexley",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 1396
+    },
+    {
+      "AreaCode": "E09000004",
+      "Borough": "Bexley",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 128489
+    },
+    {
+      "AreaCode": "E09000005",
+      "Borough": "Brent",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 48987
+    },
+    {
+      "AreaCode": "E09000005",
+      "Borough": "Brent",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 24200
+    },
+    {
+      "AreaCode": "E09000005",
+      "Borough": "Brent",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 8267
+    },
+    {
+      "AreaCode": "E09000005",
+      "Borough": "Brent",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 21439
+    },
+    {
+      "AreaCode": "E09000005",
+      "Borough": "Brent",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 886
+    },
+    {
+      "AreaCode": "E09000005",
+      "Borough": "Brent",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 1801
+    },
+    {
+      "AreaCode": "E09000005",
+      "Borough": "Brent",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 34917
+    },
+    {
+      "AreaCode": "E09000005",
+      "Borough": "Brent",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 3220
+    },
+    {
+      "AreaCode": "E09000005",
+      "Borough": "Brent",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 4074
+    },
+    {
+      "AreaCode": "E09000005",
+      "Borough": "Brent",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 11000
+    },
+    {
+      "AreaCode": "E09000005",
+      "Borough": "Brent",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 2206
+    },
+    {
+      "AreaCode": "E09000005",
+      "Borough": "Brent",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 178819
+    },
+    {
+      "AreaCode": "E09000006",
+      "Borough": "Bromley",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 75511
+    },
+    {
+      "AreaCode": "E09000006",
+      "Borough": "Bromley",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 3146
+    },
+    {
+      "AreaCode": "E09000006",
+      "Borough": "Bromley",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 15214
+    },
+    {
+      "AreaCode": "E09000006",
+      "Borough": "Bromley",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 8069
+    },
+    {
+      "AreaCode": "E09000006",
+      "Borough": "Bromley",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 593
+    },
+    {
+      "AreaCode": "E09000006",
+      "Borough": "Bromley",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 966
+    },
+    {
+      "AreaCode": "E09000006",
+      "Borough": "Bromley",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 45304
+    },
+    {
+      "AreaCode": "E09000006",
+      "Borough": "Bromley",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 2852
+    },
+    {
+      "AreaCode": "E09000006",
+      "Borough": "Bromley",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 1784
+    },
+    {
+      "AreaCode": "E09000006",
+      "Borough": "Bromley",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 7029
+    },
+    {
+      "AreaCode": "E09000006",
+      "Borough": "Bromley",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 1654
+    },
+    {
+      "AreaCode": "E09000006",
+      "Borough": "Bromley",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 167869
+    },
+    {
+      "AreaCode": "E09000007",
+      "Borough": "Camden",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 58110
+    },
+    {
+      "AreaCode": "E09000007",
+      "Borough": "Camden",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 10351
+    },
+    {
+      "AreaCode": "E09000007",
+      "Borough": "Camden",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 2852
+    },
+    {
+      "AreaCode": "E09000007",
+      "Borough": "Camden",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 6532
+    },
+    {
+      "AreaCode": "E09000007",
+      "Borough": "Camden",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 733
+    },
+    {
+      "AreaCode": "E09000007",
+      "Borough": "Camden",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 546
+    },
+    {
+      "AreaCode": "E09000007",
+      "Borough": "Camden",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 7074
+    },
+    {
+      "AreaCode": "E09000007",
+      "Borough": "Camden",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 510
+    },
+    {
+      "AreaCode": "E09000007",
+      "Borough": "Camden",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 3993
+    },
+    {
+      "AreaCode": "E09000007",
+      "Borough": "Camden",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 10620
+    },
+    {
+      "AreaCode": "E09000007",
+      "Borough": "Camden",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 1190
+    },
+    {
+      "AreaCode": "E09000007",
+      "Borough": "Camden",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 107625
+    },
+    {
+      "AreaCode": "E09000008",
+      "Borough": "Croydon",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 70976
+    },
+    {
+      "AreaCode": "E09000008",
+      "Borough": "Croydon",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 8146
+    },
+    {
+      "AreaCode": "E09000008",
+      "Borough": "Croydon",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 17229
+    },
+    {
+      "AreaCode": "E09000008",
+      "Borough": "Croydon",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 19903
+    },
+    {
+      "AreaCode": "E09000008",
+      "Borough": "Croydon",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 884
+    },
+    {
+      "AreaCode": "E09000008",
+      "Borough": "Croydon",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 1454
+    },
+    {
+      "AreaCode": "E09000008",
+      "Borough": "Croydon",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 52381
+    },
+    {
+      "AreaCode": "E09000008",
+      "Borough": "Croydon",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 3507
+    },
+    {
+      "AreaCode": "E09000008",
+      "Borough": "Croydon",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 2422
+    },
+    {
+      "AreaCode": "E09000008",
+      "Borough": "Croydon",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 10018
+    },
+    {
+      "AreaCode": "E09000008",
+      "Borough": "Croydon",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 2489
+    },
+    {
+      "AreaCode": "E09000008",
+      "Borough": "Croydon",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 201312
+    },
+    {
+      "AreaCode": "E09000009",
+      "Borough": "Ealing",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 63137
+    },
+    {
+      "AreaCode": "E09000009",
+      "Borough": "Ealing",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 20319
+    },
+    {
+      "AreaCode": "E09000009",
+      "Borough": "Ealing",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 5788
+    },
+    {
+      "AreaCode": "E09000009",
+      "Borough": "Ealing",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 18840
+    },
+    {
+      "AreaCode": "E09000009",
+      "Borough": "Ealing",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 761
+    },
+    {
+      "AreaCode": "E09000009",
+      "Borough": "Ealing",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 1531
+    },
+    {
+      "AreaCode": "E09000009",
+      "Borough": "Ealing",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 42941
+    },
+    {
+      "AreaCode": "E09000009",
+      "Borough": "Ealing",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 3082
+    },
+    {
+      "AreaCode": "E09000009",
+      "Borough": "Ealing",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 5026
+    },
+    {
+      "AreaCode": "E09000009",
+      "Borough": "Ealing",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 11236
+    },
+    {
+      "AreaCode": "E09000009",
+      "Borough": "Ealing",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 2365
+    },
+    {
+      "AreaCode": "E09000009",
+      "Borough": "Ealing",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 192088
+    },
+    {
+      "AreaCode": "E09000010",
+      "Borough": "Enfield",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 44977
+    },
+    {
+      "AreaCode": "E09000010",
+      "Borough": "Enfield",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 12557
+    },
+    {
+      "AreaCode": "E09000010",
+      "Borough": "Enfield",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 7138
+    },
+    {
+      "AreaCode": "E09000010",
+      "Borough": "Enfield",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 15289
+    },
+    {
+      "AreaCode": "E09000010",
+      "Borough": "Enfield",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 819
+    },
+    {
+      "AreaCode": "E09000010",
+      "Borough": "Enfield",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 788
+    },
+    {
+      "AreaCode": "E09000010",
+      "Borough": "Enfield",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 46721
+    },
+    {
+      "AreaCode": "E09000010",
+      "Borough": "Enfield",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 3146
+    },
+    {
+      "AreaCode": "E09000010",
+      "Borough": "Enfield",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 2040
+    },
+    {
+      "AreaCode": "E09000010",
+      "Borough": "Enfield",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 8213
+    },
+    {
+      "AreaCode": "E09000010",
+      "Borough": "Enfield",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 2177
+    },
+    {
+      "AreaCode": "E09000010",
+      "Borough": "Enfield",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 186120
+    },
+    {
+      "AreaCode": "E09000011",
+      "Borough": "Greenwich",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 57959
+    },
+    {
+      "AreaCode": "E09000011",
+      "Borough": "Greenwich",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 13632
+    },
+    {
+      "AreaCode": "E09000011",
+      "Borough": "Greenwich",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 12376
+    },
+    {
+      "AreaCode": "E09000011",
+      "Borough": "Greenwich",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 15318
+    },
+    {
+      "AreaCode": "E09000011",
+      "Borough": "Greenwich",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 635
+    },
+    {
+      "AreaCode": "E09000011",
+      "Borough": "Greenwich",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 882
+    },
+    {
+      "AreaCode": "E09000011",
+      "Borough": "Greenwich",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 28623
+    },
+    {
+      "AreaCode": "E09000011",
+      "Borough": "Greenwich",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 2160
+    },
+    {
+      "AreaCode": "E09000011",
+      "Borough": "Greenwich",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 2688
+    },
+    {
+      "AreaCode": "E09000011",
+      "Borough": "Greenwich",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 7001
+    },
+    {
+      "AreaCode": "E09000011",
+      "Borough": "Greenwich",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 1660
+    },
+    {
+      "AreaCode": "E09000011",
+      "Borough": "Greenwich",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 146134
+    },
+    {
+      "AreaCode": "E09000012",
+      "Borough": "Hackney",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 66844
+    },
+    {
+      "AreaCode": "E09000012",
+      "Borough": "Hackney",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 10239
+    },
+    {
+      "AreaCode": "E09000012",
+      "Borough": "Hackney",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 4991
+    },
+    {
+      "AreaCode": "E09000012",
+      "Borough": "Hackney",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 13995
+    },
+    {
+      "AreaCode": "E09000012",
+      "Borough": "Hackney",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 962
+    },
+    {
+      "AreaCode": "E09000012",
+      "Borough": "Hackney",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 672
+    },
+    {
+      "AreaCode": "E09000012",
+      "Borough": "Hackney",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 11646
+    },
+    {
+      "AreaCode": "E09000012",
+      "Borough": "Hackney",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 851
+    },
+    {
+      "AreaCode": "E09000012",
+      "Borough": "Hackney",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 10011
+    },
+    {
+      "AreaCode": "E09000012",
+      "Borough": "Hackney",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 12698
+    },
+    {
+      "AreaCode": "E09000012",
+      "Borough": "Hackney",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 1401
+    },
+    {
+      "AreaCode": "E09000012",
+      "Borough": "Hackney",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 124838
+    },
+    {
+      "AreaCode": "E09000013",
+      "Borough": "Hammersmith and Fulham",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 51319
+    },
+    {
+      "AreaCode": "E09000013",
+      "Borough": "Hammersmith and Fulham",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 11578
+    },
+    {
+      "AreaCode": "E09000013",
+      "Borough": "Hammersmith and Fulham",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 2376
+    },
+    {
+      "AreaCode": "E09000013",
+      "Borough": "Hammersmith and Fulham",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 7504
+    },
+    {
+      "AreaCode": "E09000013",
+      "Borough": "Hammersmith and Fulham",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 595
+    },
+    {
+      "AreaCode": "E09000013",
+      "Borough": "Hammersmith and Fulham",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 994
+    },
+    {
+      "AreaCode": "E09000013",
+      "Borough": "Hammersmith and Fulham",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 7781
+    },
+    {
+      "AreaCode": "E09000013",
+      "Borough": "Hammersmith and Fulham",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 514
+    },
+    {
+      "AreaCode": "E09000013",
+      "Borough": "Hammersmith and Fulham",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 4915
+    },
+    {
+      "AreaCode": "E09000013",
+      "Borough": "Hammersmith and Fulham",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 9439
+    },
+    {
+      "AreaCode": "E09000013",
+      "Borough": "Hammersmith and Fulham",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 1078
+    },
+    {
+      "AreaCode": "E09000013",
+      "Borough": "Hammersmith and Fulham",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 85064
+    },
+    {
+      "AreaCode": "E09000014",
+      "Borough": "Haringey",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 55767
+    },
+    {
+      "AreaCode": "E09000014",
+      "Borough": "Haringey",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 21629
+    },
+    {
+      "AreaCode": "E09000014",
+      "Borough": "Haringey",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 5273
+    },
+    {
+      "AreaCode": "E09000014",
+      "Borough": "Haringey",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 15341
+    },
+    {
+      "AreaCode": "E09000014",
+      "Borough": "Haringey",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 626
+    },
+    {
+      "AreaCode": "E09000014",
+      "Borough": "Haringey",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 1107
+    },
+    {
+      "AreaCode": "E09000014",
+      "Borough": "Haringey",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 18436
+    },
+    {
+      "AreaCode": "E09000014",
+      "Borough": "Haringey",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 1457
+    },
+    {
+      "AreaCode": "E09000014",
+      "Borough": "Haringey",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 5226
+    },
+    {
+      "AreaCode": "E09000014",
+      "Borough": "Haringey",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 7920
+    },
+    {
+      "AreaCode": "E09000014",
+      "Borough": "Haringey",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 1599
+    },
+    {
+      "AreaCode": "E09000014",
+      "Borough": "Haringey",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 129857
+    },
+    {
+      "AreaCode": "E09000015",
+      "Borough": "Harrow",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 45175
+    },
+    {
+      "AreaCode": "E09000015",
+      "Borough": "Harrow",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 15605
+    },
+    {
+      "AreaCode": "E09000015",
+      "Borough": "Harrow",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 4721
+    },
+    {
+      "AreaCode": "E09000015",
+      "Borough": "Harrow",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 8673
+    },
+    {
+      "AreaCode": "E09000015",
+      "Borough": "Harrow",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 516
+    },
+    {
+      "AreaCode": "E09000015",
+      "Borough": "Harrow",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 590
+    },
+    {
+      "AreaCode": "E09000015",
+      "Borough": "Harrow",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 37918
+    },
+    {
+      "AreaCode": "E09000015",
+      "Borough": "Harrow",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 3223
+    },
+    {
+      "AreaCode": "E09000015",
+      "Borough": "Harrow",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 915
+    },
+    {
+      "AreaCode": "E09000015",
+      "Borough": "Harrow",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 6146
+    },
+    {
+      "AreaCode": "E09000015",
+      "Borough": "Harrow",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 1555
+    },
+    {
+      "AreaCode": "E09000015",
+      "Borough": "Harrow",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 136166
+    },
+    {
+      "AreaCode": "E09000016",
+      "Borough": "Havering",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 41654
+    },
+    {
+      "AreaCode": "E09000016",
+      "Borough": "Havering",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 8363
+    },
+    {
+      "AreaCode": "E09000016",
+      "Borough": "Havering",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 8721
+    },
+    {
+      "AreaCode": "E09000016",
+      "Borough": "Havering",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 6949
+    },
+    {
+      "AreaCode": "E09000016",
+      "Borough": "Havering",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 739
+    },
+    {
+      "AreaCode": "E09000016",
+      "Borough": "Havering",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 609
+    },
+    {
+      "AreaCode": "E09000016",
+      "Borough": "Havering",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 45890
+    },
+    {
+      "AreaCode": "E09000016",
+      "Borough": "Havering",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 3357
+    },
+    {
+      "AreaCode": "E09000016",
+      "Borough": "Havering",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 848
+    },
+    {
+      "AreaCode": "E09000016",
+      "Borough": "Havering",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 6101
+    },
+    {
+      "AreaCode": "E09000016",
+      "Borough": "Havering",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 1550
+    },
+    {
+      "AreaCode": "E09000016",
+      "Borough": "Havering",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 137271
+    },
+    {
+      "AreaCode": "E09000017",
+      "Borough": "Hillingdon",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 45193
+    },
+    {
+      "AreaCode": "E09000017",
+      "Borough": "Hillingdon",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 9362
+    },
+    {
+      "AreaCode": "E09000017",
+      "Borough": "Hillingdon",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 3714
+    },
+    {
+      "AreaCode": "E09000017",
+      "Borough": "Hillingdon",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 13357
+    },
+    {
+      "AreaCode": "E09000017",
+      "Borough": "Hillingdon",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 670
+    },
+    {
+      "AreaCode": "E09000017",
+      "Borough": "Hillingdon",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 772
+    },
+    {
+      "AreaCode": "E09000017",
+      "Borough": "Hillingdon",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 55421
+    },
+    {
+      "AreaCode": "E09000017",
+      "Borough": "Hillingdon",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 3711
+    },
+    {
+      "AreaCode": "E09000017",
+      "Borough": "Hillingdon",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 1627
+    },
+    {
+      "AreaCode": "E09000017",
+      "Borough": "Hillingdon",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 7226
+    },
+    {
+      "AreaCode": "E09000017",
+      "Borough": "Hillingdon",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 1752
+    },
+    {
+      "AreaCode": "E09000017",
+      "Borough": "Hillingdon",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 163104
+    },
+    {
+      "AreaCode": "E09000018",
+      "Borough": "Hounslow",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 45047
+    },
+    {
+      "AreaCode": "E09000018",
+      "Borough": "Hounslow",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 10046
+    },
+    {
+      "AreaCode": "E09000018",
+      "Borough": "Hounslow",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 5086
+    },
+    {
+      "AreaCode": "E09000018",
+      "Borough": "Hounslow",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 18538
+    },
+    {
+      "AreaCode": "E09000018",
+      "Borough": "Hounslow",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 635
+    },
+    {
+      "AreaCode": "E09000018",
+      "Borough": "Hounslow",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 1199
+    },
+    {
+      "AreaCode": "E09000018",
+      "Borough": "Hounslow",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 40771
+    },
+    {
+      "AreaCode": "E09000018",
+      "Borough": "Hounslow",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 3043
+    },
+    {
+      "AreaCode": "E09000018",
+      "Borough": "Hounslow",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 4056
+    },
+    {
+      "AreaCode": "E09000018",
+      "Borough": "Hounslow",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 8614
+    },
+    {
+      "AreaCode": "E09000018",
+      "Borough": "Hounslow",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 1767
+    },
+    {
+      "AreaCode": "E09000018",
+      "Borough": "Hounslow",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 149381
+    },
+    {
+      "AreaCode": "E09000019",
+      "Borough": "Islington",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 64530
+    },
+    {
+      "AreaCode": "E09000019",
+      "Borough": "Islington",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 11099
+    },
+    {
+      "AreaCode": "E09000019",
+      "Borough": "Islington",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 3063
+    },
+    {
+      "AreaCode": "E09000019",
+      "Borough": "Islington",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 9346
+    },
+    {
+      "AreaCode": "E09000019",
+      "Borough": "Islington",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 689
+    },
+    {
+      "AreaCode": "E09000019",
+      "Borough": "Islington",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 620
+    },
+    {
+      "AreaCode": "E09000019",
+      "Borough": "Islington",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 7871
+    },
+    {
+      "AreaCode": "E09000019",
+      "Borough": "Islington",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 552
+    },
+    {
+      "AreaCode": "E09000019",
+      "Borough": "Islington",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 6133
+    },
+    {
+      "AreaCode": "E09000019",
+      "Borough": "Islington",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 9922
+    },
+    {
+      "AreaCode": "E09000019",
+      "Borough": "Islington",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 1146
+    },
+    {
+      "AreaCode": "E09000019",
+      "Borough": "Islington",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 101619
+    },
+    {
+      "AreaCode": "E09000020",
+      "Borough": "Kensington and Chelsea",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 40010
+    },
+    {
+      "AreaCode": "E09000020",
+      "Borough": "Kensington and Chelsea",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 6659
+    },
+    {
+      "AreaCode": "E09000020",
+      "Borough": "Kensington and Chelsea",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 1164
+    },
+    {
+      "AreaCode": "E09000020",
+      "Borough": "Kensington and Chelsea",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 4057
+    },
+    {
+      "AreaCode": "E09000020",
+      "Borough": "Kensington and Chelsea",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 1003
+    },
+    {
+      "AreaCode": "E09000020",
+      "Borough": "Kensington and Chelsea",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 568
+    },
+    {
+      "AreaCode": "E09000020",
+      "Borough": "Kensington and Chelsea",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 5331
+    },
+    {
+      "AreaCode": "E09000020",
+      "Borough": "Kensington and Chelsea",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 487
+    },
+    {
+      "AreaCode": "E09000020",
+      "Borough": "Kensington and Chelsea",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 2377
+    },
+    {
+      "AreaCode": "E09000020",
+      "Borough": "Kensington and Chelsea",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 6820
+    },
+    {
+      "AreaCode": "E09000020",
+      "Borough": "Kensington and Chelsea",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 962
+    },
+    {
+      "AreaCode": "E09000020",
+      "Borough": "Kensington and Chelsea",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 73935
+    },
+    {
+      "AreaCode": "E09000021",
+      "Borough": "Kingston upon Thames",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 39251
+    },
+    {
+      "AreaCode": "E09000021",
+      "Borough": "Kingston upon Thames",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 1457
+    },
+    {
+      "AreaCode": "E09000021",
+      "Borough": "Kingston upon Thames",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 4946
+    },
+    {
+      "AreaCode": "E09000021",
+      "Borough": "Kingston upon Thames",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 5519
+    },
+    {
+      "AreaCode": "E09000021",
+      "Borough": "Kingston upon Thames",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 228
+    },
+    {
+      "AreaCode": "E09000021",
+      "Borough": "Kingston upon Thames",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 705
+    },
+    {
+      "AreaCode": "E09000021",
+      "Borough": "Kingston upon Thames",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 21101
+    },
+    {
+      "AreaCode": "E09000021",
+      "Borough": "Kingston upon Thames",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 1396
+    },
+    {
+      "AreaCode": "E09000021",
+      "Borough": "Kingston upon Thames",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 2379
+    },
+    {
+      "AreaCode": "E09000021",
+      "Borough": "Kingston upon Thames",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 6364
+    },
+    {
+      "AreaCode": "E09000021",
+      "Borough": "Kingston upon Thames",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 802
+    },
+    {
+      "AreaCode": "E09000021",
+      "Borough": "Kingston upon Thames",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 83915
+    },
+    {
+      "AreaCode": "E09000022",
+      "Borough": "Lambeth",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 91770
+    },
+    {
+      "AreaCode": "E09000022",
+      "Borough": "Lambeth",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 18743
+    },
+    {
+      "AreaCode": "E09000022",
+      "Borough": "Lambeth",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 8531
+    },
+    {
+      "AreaCode": "E09000022",
+      "Borough": "Lambeth",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 21125
+    },
+    {
+      "AreaCode": "E09000022",
+      "Borough": "Lambeth",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 809
+    },
+    {
+      "AreaCode": "E09000022",
+      "Borough": "Lambeth",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 1464
+    },
+    {
+      "AreaCode": "E09000022",
+      "Borough": "Lambeth",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 16994
+    },
+    {
+      "AreaCode": "E09000022",
+      "Borough": "Lambeth",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 1013
+    },
+    {
+      "AreaCode": "E09000022",
+      "Borough": "Lambeth",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 9711
+    },
+    {
+      "AreaCode": "E09000022",
+      "Borough": "Lambeth",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 10713
+    },
+    {
+      "AreaCode": "E09000022",
+      "Borough": "Lambeth",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 1945
+    },
+    {
+      "AreaCode": "E09000022",
+      "Borough": "Lambeth",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 134835
+    },
+    {
+      "AreaCode": "E09000023",
+      "Borough": "Lewisham",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 69977
+    },
+    {
+      "AreaCode": "E09000023",
+      "Borough": "Lewisham",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 10775
+    },
+    {
+      "AreaCode": "E09000023",
+      "Borough": "Lewisham",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 14407
+    },
+    {
+      "AreaCode": "E09000023",
+      "Borough": "Lewisham",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 17148
+    },
+    {
+      "AreaCode": "E09000023",
+      "Borough": "Lewisham",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 628
+    },
+    {
+      "AreaCode": "E09000023",
+      "Borough": "Lewisham",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 1011
+    },
+    {
+      "AreaCode": "E09000023",
+      "Borough": "Lewisham",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 24709
+    },
+    {
+      "AreaCode": "E09000023",
+      "Borough": "Lewisham",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 1529
+    },
+    {
+      "AreaCode": "E09000023",
+      "Borough": "Lewisham",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 5569
+    },
+    {
+      "AreaCode": "E09000023",
+      "Borough": "Lewisham",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 8146
+    },
+    {
+      "AreaCode": "E09000023",
+      "Borough": "Lewisham",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 1813
+    },
+    {
+      "AreaCode": "E09000023",
+      "Borough": "Lewisham",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 144841
+    },
+    {
+      "AreaCode": "E09000024",
+      "Borough": "Merton",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 48419
+    },
+    {
+      "AreaCode": "E09000024",
+      "Borough": "Merton",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 12159
+    },
+    {
+      "AreaCode": "E09000024",
+      "Borough": "Merton",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 5293
+    },
+    {
+      "AreaCode": "E09000024",
+      "Borough": "Merton",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 9251
+    },
+    {
+      "AreaCode": "E09000024",
+      "Borough": "Merton",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 385
+    },
+    {
+      "AreaCode": "E09000024",
+      "Borough": "Merton",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 1152
+    },
+    {
+      "AreaCode": "E09000024",
+      "Borough": "Merton",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 22618
+    },
+    {
+      "AreaCode": "E09000024",
+      "Borough": "Merton",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 1630
+    },
+    {
+      "AreaCode": "E09000024",
+      "Borough": "Merton",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 3237
+    },
+    {
+      "AreaCode": "E09000024",
+      "Borough": "Merton",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 6683
+    },
+    {
+      "AreaCode": "E09000024",
+      "Borough": "Merton",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 1238
+    },
+    {
+      "AreaCode": "E09000024",
+      "Borough": "Merton",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 103124
+    },
+    {
+      "AreaCode": "E09000025",
+      "Borough": "Newham",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 47737
+    },
+    {
+      "AreaCode": "E09000025",
+      "Borough": "Newham",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 38371
+    },
+    {
+      "AreaCode": "E09000025",
+      "Borough": "Newham",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 14011
+    },
+    {
+      "AreaCode": "E09000025",
+      "Borough": "Newham",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 14821
+    },
+    {
+      "AreaCode": "E09000025",
+      "Borough": "Newham",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 802
+    },
+    {
+      "AreaCode": "E09000025",
+      "Borough": "Newham",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 1063
+    },
+    {
+      "AreaCode": "E09000025",
+      "Borough": "Newham",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 28349
+    },
+    {
+      "AreaCode": "E09000025",
+      "Borough": "Newham",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 2373
+    },
+    {
+      "AreaCode": "E09000025",
+      "Borough": "Newham",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 3757
+    },
+    {
+      "AreaCode": "E09000025",
+      "Borough": "Newham",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 9818
+    },
+    {
+      "AreaCode": "E09000025",
+      "Borough": "Newham",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 2344
+    },
+    {
+      "AreaCode": "E09000025",
+      "Borough": "Newham",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 187591
+    },
+    {
+      "AreaCode": "E09000026",
+      "Borough": "Redbridge",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 49406
+    },
+    {
+      "AreaCode": "E09000026",
+      "Borough": "Redbridge",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 20627
+    },
+    {
+      "AreaCode": "E09000026",
+      "Borough": "Redbridge",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 8539
+    },
+    {
+      "AreaCode": "E09000026",
+      "Borough": "Redbridge",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 8172
+    },
+    {
+      "AreaCode": "E09000026",
+      "Borough": "Redbridge",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 850
+    },
+    {
+      "AreaCode": "E09000026",
+      "Borough": "Redbridge",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 638
+    },
+    {
+      "AreaCode": "E09000026",
+      "Borough": "Redbridge",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 40221
+    },
+    {
+      "AreaCode": "E09000026",
+      "Borough": "Redbridge",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 2978
+    },
+    {
+      "AreaCode": "E09000026",
+      "Borough": "Redbridge",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 1566
+    },
+    {
+      "AreaCode": "E09000026",
+      "Borough": "Redbridge",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 6768
+    },
+    {
+      "AreaCode": "E09000026",
+      "Borough": "Redbridge",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 1862
+    },
+    {
+      "AreaCode": "E09000026",
+      "Borough": "Redbridge",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 168633
+    },
+    {
+      "AreaCode": "E09000027",
+      "Borough": "Richmond upon Thames",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 57322
+    },
+    {
+      "AreaCode": "E09000027",
+      "Borough": "Richmond upon Thames",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 2897
+    },
+    {
+      "AreaCode": "E09000027",
+      "Borough": "Richmond upon Thames",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 4319
+    },
+    {
+      "AreaCode": "E09000027",
+      "Borough": "Richmond upon Thames",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 3929
+    },
+    {
+      "AreaCode": "E09000027",
+      "Borough": "Richmond upon Thames",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 276
+    },
+    {
+      "AreaCode": "E09000027",
+      "Borough": "Richmond upon Thames",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 649
+    },
+    {
+      "AreaCode": "E09000027",
+      "Borough": "Richmond upon Thames",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 17106
+    },
+    {
+      "AreaCode": "E09000027",
+      "Borough": "Richmond upon Thames",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 962
+    },
+    {
+      "AreaCode": "E09000027",
+      "Borough": "Richmond upon Thames",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 3888
+    },
+    {
+      "AreaCode": "E09000027",
+      "Borough": "Richmond upon Thames",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 5386
+    },
+    {
+      "AreaCode": "E09000027",
+      "Borough": "Richmond upon Thames",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 832
+    },
+    {
+      "AreaCode": "E09000027",
+      "Borough": "Richmond upon Thames",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 97713
+    },
+    {
+      "AreaCode": "E09000028",
+      "Borough": "Southwark",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 80842
+    },
+    {
+      "AreaCode": "E09000028",
+      "Borough": "Southwark",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 14000
+    },
+    {
+      "AreaCode": "E09000028",
+      "Borough": "Southwark",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 7054
+    },
+    {
+      "AreaCode": "E09000028",
+      "Borough": "Southwark",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 23288
+    },
+    {
+      "AreaCode": "E09000028",
+      "Borough": "Southwark",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 791
+    },
+    {
+      "AreaCode": "E09000028",
+      "Borough": "Southwark",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 1132
+    },
+    {
+      "AreaCode": "E09000028",
+      "Borough": "Southwark",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 14701
+    },
+    {
+      "AreaCode": "E09000028",
+      "Borough": "Southwark",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 882
+    },
+    {
+      "AreaCode": "E09000028",
+      "Borough": "Southwark",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 9537
+    },
+    {
+      "AreaCode": "E09000028",
+      "Borough": "Southwark",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 12998
+    },
+    {
+      "AreaCode": "E09000028",
+      "Borough": "Southwark",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 1723
+    },
+    {
+      "AreaCode": "E09000028",
+      "Borough": "Southwark",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 140689
+    },
+    {
+      "AreaCode": "E09000029",
+      "Borough": "Sutton",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 38024
+    },
+    {
+      "AreaCode": "E09000029",
+      "Borough": "Sutton",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 3815
+    },
+    {
+      "AreaCode": "E09000029",
+      "Borough": "Sutton",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 6442
+    },
+    {
+      "AreaCode": "E09000029",
+      "Borough": "Sutton",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 6899
+    },
+    {
+      "AreaCode": "E09000029",
+      "Borough": "Sutton",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 436
+    },
+    {
+      "AreaCode": "E09000029",
+      "Borough": "Sutton",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 952
+    },
+    {
+      "AreaCode": "E09000029",
+      "Borough": "Sutton",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 36070
+    },
+    {
+      "AreaCode": "E09000029",
+      "Borough": "Sutton",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 2412
+    },
+    {
+      "AreaCode": "E09000029",
+      "Borough": "Sutton",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 1561
+    },
+    {
+      "AreaCode": "E09000029",
+      "Borough": "Sutton",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 6484
+    },
+    {
+      "AreaCode": "E09000029",
+      "Borough": "Sutton",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 1129
+    },
+    {
+      "AreaCode": "E09000029",
+      "Borough": "Sutton",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 105415
+    },
+    {
+      "AreaCode": "E09000030",
+      "Borough": "Tower Hamlets",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 78219
+    },
+    {
+      "AreaCode": "E09000030",
+      "Borough": "Tower Hamlets",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 21452
+    },
+    {
+      "AreaCode": "E09000030",
+      "Borough": "Tower Hamlets",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 7111
+    },
+    {
+      "AreaCode": "E09000030",
+      "Borough": "Tower Hamlets",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 9010
+    },
+    {
+      "AreaCode": "E09000030",
+      "Borough": "Tower Hamlets",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 896
+    },
+    {
+      "AreaCode": "E09000030",
+      "Borough": "Tower Hamlets",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 787
+    },
+    {
+      "AreaCode": "E09000030",
+      "Borough": "Tower Hamlets",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 14106
+    },
+    {
+      "AreaCode": "E09000030",
+      "Borough": "Tower Hamlets",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 985
+    },
+    {
+      "AreaCode": "E09000030",
+      "Borough": "Tower Hamlets",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 7208
+    },
+    {
+      "AreaCode": "E09000030",
+      "Borough": "Tower Hamlets",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 13900
+    },
+    {
+      "AreaCode": "E09000030",
+      "Borough": "Tower Hamlets",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 1721
+    },
+    {
+      "AreaCode": "E09000030",
+      "Borough": "Tower Hamlets",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 154914
+    },
+    {
+      "AreaCode": "E09000031",
+      "Borough": "Waltham Forest",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 52765
+    },
+    {
+      "AreaCode": "E09000031",
+      "Borough": "Waltham Forest",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 25097
+    },
+    {
+      "AreaCode": "E09000031",
+      "Borough": "Waltham Forest",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 6810
+    },
+    {
+      "AreaCode": "E09000031",
+      "Borough": "Waltham Forest",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 10142
+    },
+    {
+      "AreaCode": "E09000031",
+      "Borough": "Waltham Forest",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 762
+    },
+    {
+      "AreaCode": "E09000031",
+      "Borough": "Waltham Forest",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 858
+    },
+    {
+      "AreaCode": "E09000031",
+      "Borough": "Waltham Forest",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 27532
+    },
+    {
+      "AreaCode": "E09000031",
+      "Borough": "Waltham Forest",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 1974
+    },
+    {
+      "AreaCode": "E09000031",
+      "Borough": "Waltham Forest",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 4975
+    },
+    {
+      "AreaCode": "E09000031",
+      "Borough": "Waltham Forest",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 7773
+    },
+    {
+      "AreaCode": "E09000031",
+      "Borough": "Waltham Forest",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 1684
+    },
+    {
+      "AreaCode": "E09000031",
+      "Borough": "Waltham Forest",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 138054
+    },
+    {
+      "AreaCode": "E09000032",
+      "Borough": "Wandsworth",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 107639
+    },
+    {
+      "AreaCode": "E09000032",
+      "Borough": "Wandsworth",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 16503
+    },
+    {
+      "AreaCode": "E09000032",
+      "Borough": "Wandsworth",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 7948
+    },
+    {
+      "AreaCode": "E09000032",
+      "Borough": "Wandsworth",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 13863
+    },
+    {
+      "AreaCode": "E09000032",
+      "Borough": "Wandsworth",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 821
+    },
+    {
+      "AreaCode": "E09000032",
+      "Borough": "Wandsworth",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 1747
+    },
+    {
+      "AreaCode": "E09000032",
+      "Borough": "Wandsworth",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 17724
+    },
+    {
+      "AreaCode": "E09000032",
+      "Borough": "Wandsworth",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 1041
+    },
+    {
+      "AreaCode": "E09000032",
+      "Borough": "Wandsworth",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 9146
+    },
+    {
+      "AreaCode": "E09000032",
+      "Borough": "Wandsworth",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 12338
+    },
+    {
+      "AreaCode": "E09000032",
+      "Borough": "Wandsworth",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 1671
+    },
+    {
+      "AreaCode": "E09000032",
+      "Borough": "Wandsworth",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 137064
+    },
+    {
+      "AreaCode": "E09000033",
+      "Borough": "Westminster",
+      "MethodCode": 1,
+      "TravelMethod": "Work mainly at or from home",
+      "Observation": 56766
+    },
+    {
+      "AreaCode": "E09000033",
+      "Borough": "Westminster",
+      "MethodCode": 2,
+      "TravelMethod": "Underground, metro, light rail, tram",
+      "Observation": 9768
+    },
+    {
+      "AreaCode": "E09000033",
+      "Borough": "Westminster",
+      "MethodCode": 3,
+      "TravelMethod": "Train",
+      "Observation": 2080
+    },
+    {
+      "AreaCode": "E09000033",
+      "Borough": "Westminster",
+      "MethodCode": 4,
+      "TravelMethod": "Bus, minibus or coach",
+      "Observation": 7075
+    },
+    {
+      "AreaCode": "E09000033",
+      "Borough": "Westminster",
+      "MethodCode": 5,
+      "TravelMethod": "Taxi",
+      "Observation": 993
+    },
+    {
+      "AreaCode": "E09000033",
+      "Borough": "Westminster",
+      "MethodCode": 6,
+      "TravelMethod": "Motorcycle, scooter or moped",
+      "Observation": 569
+    },
+    {
+      "AreaCode": "E09000033",
+      "Borough": "Westminster",
+      "MethodCode": 7,
+      "TravelMethod": "Driving a car or van",
+      "Observation": 6703
+    },
+    {
+      "AreaCode": "E09000033",
+      "Borough": "Westminster",
+      "MethodCode": 8,
+      "TravelMethod": "Passenger in a car or van",
+      "Observation": 542
+    },
+    {
+      "AreaCode": "E09000033",
+      "Borough": "Westminster",
+      "MethodCode": 9,
+      "TravelMethod": "Bicycle",
+      "Observation": 3600
+    },
+    {
+      "AreaCode": "E09000033",
+      "Borough": "Westminster",
+      "MethodCode": 10,
+      "TravelMethod": "On foot",
+      "Observation": 12238
+    },
+    {
+      "AreaCode": "E09000033",
+      "Borough": "Westminster",
+      "MethodCode": 11,
+      "TravelMethod": "Other method of travel to work",
+      "Observation": 1409
+    },
+    {
+      "AreaCode": "E09000033",
+      "Borough": "Westminster",
+      "MethodCode": 12,
+      "TravelMethod": "Not in employment or aged 15 years and under",
+      "Observation": 102494
+    }
+   ]
