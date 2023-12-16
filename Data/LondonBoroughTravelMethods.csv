@@ -1,0 +1,397 @@
+AreaCode,Borough,MethodCode,TravelMethod,Observation
+E09000001,City of London,1,Work mainly at or from home,3602
+E09000001,City of London,2,"Underground, metro, light rail, tram",349
+E09000001,City of London,3,Train,95
+E09000001,City of London,4,"Bus, minibus or coach",132
+E09000001,City of London,5,Taxi,21
+E09000001,City of London,6,"Motorcycle, scooter or moped",13
+E09000001,City of London,7,Driving a car or van,124
+E09000001,City of London,8,Passenger in a car or van,13
+E09000001,City of London,9,Bicycle,191
+E09000001,City of London,10,On foot,758
+E09000001,City of London,11,Other method of travel to work,54
+E09000001,City of London,12,Not in employment or aged 15 years and under,3232
+E09000002,Barking and Dagenham,1,Work mainly at or from home,19572
+E09000002,Barking and Dagenham,2,"Underground, metro, light rail, tram",15301
+E09000002,Barking and Dagenham,3,Train,8660
+E09000002,Barking and Dagenham,4,"Bus, minibus or coach",9690
+E09000002,Barking and Dagenham,5,Taxi,542
+E09000002,Barking and Dagenham,6,"Motorcycle, scooter or moped",599
+E09000002,Barking and Dagenham,7,Driving a car or van,30732
+E09000002,Barking and Dagenham,8,Passenger in a car or van,2392
+E09000002,Barking and Dagenham,9,Bicycle,1218
+E09000002,Barking and Dagenham,10,On foot,4464
+E09000002,Barking and Dagenham,11,Other method of travel to work,1416
+E09000002,Barking and Dagenham,12,Not in employment or aged 15 years and under,124280
+E09000003,Barnet,1,Work mainly at or from home,79628
+E09000003,Barnet,2,"Underground, metro, light rail, tram",20758
+E09000003,Barnet,3,Train,4690
+E09000003,Barnet,4,"Bus, minibus or coach",15090
+E09000003,Barnet,5,Taxi,872
+E09000003,Barnet,6,"Motorcycle, scooter or moped",1197
+E09000003,Barnet,7,Driving a car or van,46797
+E09000003,Barnet,8,Passenger in a car or van,3169
+E09000003,Barnet,9,Bicycle,2162
+E09000003,Barnet,10,On foot,9361
+E09000003,Barnet,11,Other method of travel to work,2451
+E09000003,Barnet,12,Not in employment or aged 15 years and under,203170
+E09000004,Bexley,1,Work mainly at or from home,40692
+E09000004,Bexley,2,"Underground, metro, light rail, tram",2838
+E09000004,Bexley,3,Train,12164
+E09000004,Bexley,4,"Bus, minibus or coach",7763
+E09000004,Bexley,5,Taxi,688
+E09000004,Bexley,6,"Motorcycle, scooter or moped",767
+E09000004,Bexley,7,Driving a car or van,42503
+E09000004,Bexley,8,Passenger in a car or van,2919
+E09000004,Bexley,9,Bicycle,995
+E09000004,Bexley,10,On foot,5258
+E09000004,Bexley,11,Other method of travel to work,1396
+E09000004,Bexley,12,Not in employment or aged 15 years and under,128489
+E09000005,Brent,1,Work mainly at or from home,48987
+E09000005,Brent,2,"Underground, metro, light rail, tram",24200
+E09000005,Brent,3,Train,8267
+E09000005,Brent,4,"Bus, minibus or coach",21439
+E09000005,Brent,5,Taxi,886
+E09000005,Brent,6,"Motorcycle, scooter or moped",1801
+E09000005,Brent,7,Driving a car or van,34917
+E09000005,Brent,8,Passenger in a car or van,3220
+E09000005,Brent,9,Bicycle,4074
+E09000005,Brent,10,On foot,11000
+E09000005,Brent,11,Other method of travel to work,2206
+E09000005,Brent,12,Not in employment or aged 15 years and under,178819
+E09000006,Bromley,1,Work mainly at or from home,75511
+E09000006,Bromley,2,"Underground, metro, light rail, tram",3146
+E09000006,Bromley,3,Train,15214
+E09000006,Bromley,4,"Bus, minibus or coach",8069
+E09000006,Bromley,5,Taxi,593
+E09000006,Bromley,6,"Motorcycle, scooter or moped",966
+E09000006,Bromley,7,Driving a car or van,45304
+E09000006,Bromley,8,Passenger in a car or van,2852
+E09000006,Bromley,9,Bicycle,1784
+E09000006,Bromley,10,On foot,7029
+E09000006,Bromley,11,Other method of travel to work,1654
+E09000006,Bromley,12,Not in employment or aged 15 years and under,167869
+E09000007,Camden,1,Work mainly at or from home,58110
+E09000007,Camden,2,"Underground, metro, light rail, tram",10351
+E09000007,Camden,3,Train,2852
+E09000007,Camden,4,"Bus, minibus or coach",6532
+E09000007,Camden,5,Taxi,733
+E09000007,Camden,6,"Motorcycle, scooter or moped",546
+E09000007,Camden,7,Driving a car or van,7074
+E09000007,Camden,8,Passenger in a car or van,510
+E09000007,Camden,9,Bicycle,3993
+E09000007,Camden,10,On foot,10620
+E09000007,Camden,11,Other method of travel to work,1190
+E09000007,Camden,12,Not in employment or aged 15 years and under,107625
+E09000008,Croydon,1,Work mainly at or from home,70976
+E09000008,Croydon,2,"Underground, metro, light rail, tram",8146
+E09000008,Croydon,3,Train,17229
+E09000008,Croydon,4,"Bus, minibus or coach",19903
+E09000008,Croydon,5,Taxi,884
+E09000008,Croydon,6,"Motorcycle, scooter or moped",1454
+E09000008,Croydon,7,Driving a car or van,52381
+E09000008,Croydon,8,Passenger in a car or van,3507
+E09000008,Croydon,9,Bicycle,2422
+E09000008,Croydon,10,On foot,10018
+E09000008,Croydon,11,Other method of travel to work,2489
+E09000008,Croydon,12,Not in employment or aged 15 years and under,201312
+E09000009,Ealing,1,Work mainly at or from home,63137
+E09000009,Ealing,2,"Underground, metro, light rail, tram",20319
+E09000009,Ealing,3,Train,5788
+E09000009,Ealing,4,"Bus, minibus or coach",18840
+E09000009,Ealing,5,Taxi,761
+E09000009,Ealing,6,"Motorcycle, scooter or moped",1531
+E09000009,Ealing,7,Driving a car or van,42941
+E09000009,Ealing,8,Passenger in a car or van,3082
+E09000009,Ealing,9,Bicycle,5026
+E09000009,Ealing,10,On foot,11236
+E09000009,Ealing,11,Other method of travel to work,2365
+E09000009,Ealing,12,Not in employment or aged 15 years and under,192088
+E09000010,Enfield,1,Work mainly at or from home,44977
+E09000010,Enfield,2,"Underground, metro, light rail, tram",12557
+E09000010,Enfield,3,Train,7138
+E09000010,Enfield,4,"Bus, minibus or coach",15289
+E09000010,Enfield,5,Taxi,819
+E09000010,Enfield,6,"Motorcycle, scooter or moped",788
+E09000010,Enfield,7,Driving a car or van,46721
+E09000010,Enfield,8,Passenger in a car or van,3146
+E09000010,Enfield,9,Bicycle,2040
+E09000010,Enfield,10,On foot,8213
+E09000010,Enfield,11,Other method of travel to work,2177
+E09000010,Enfield,12,Not in employment or aged 15 years and under,186120
+E09000011,Greenwich,1,Work mainly at or from home,57959
+E09000011,Greenwich,2,"Underground, metro, light rail, tram",13632
+E09000011,Greenwich,3,Train,12376
+E09000011,Greenwich,4,"Bus, minibus or coach",15318
+E09000011,Greenwich,5,Taxi,635
+E09000011,Greenwich,6,"Motorcycle, scooter or moped",882
+E09000011,Greenwich,7,Driving a car or van,28623
+E09000011,Greenwich,8,Passenger in a car or van,2160
+E09000011,Greenwich,9,Bicycle,2688
+E09000011,Greenwich,10,On foot,7001
+E09000011,Greenwich,11,Other method of travel to work,1660
+E09000011,Greenwich,12,Not in employment or aged 15 years and under,146134
+E09000012,Hackney,1,Work mainly at or from home,66844
+E09000012,Hackney,2,"Underground, metro, light rail, tram",10239
+E09000012,Hackney,3,Train,4991
+E09000012,Hackney,4,"Bus, minibus or coach",13995
+E09000012,Hackney,5,Taxi,962
+E09000012,Hackney,6,"Motorcycle, scooter or moped",672
+E09000012,Hackney,7,Driving a car or van,11646
+E09000012,Hackney,8,Passenger in a car or van,851
+E09000012,Hackney,9,Bicycle,10011
+E09000012,Hackney,10,On foot,12698
+E09000012,Hackney,11,Other method of travel to work,1401
+E09000012,Hackney,12,Not in employment or aged 15 years and under,124838
+E09000013,Hammersmith and Fulham,1,Work mainly at or from home,51319
+E09000013,Hammersmith and Fulham,2,"Underground, metro, light rail, tram",11578
+E09000013,Hammersmith and Fulham,3,Train,2376
+E09000013,Hammersmith and Fulham,4,"Bus, minibus or coach",7504
+E09000013,Hammersmith and Fulham,5,Taxi,595
+E09000013,Hammersmith and Fulham,6,"Motorcycle, scooter or moped",994
+E09000013,Hammersmith and Fulham,7,Driving a car or van,7781
+E09000013,Hammersmith and Fulham,8,Passenger in a car or van,514
+E09000013,Hammersmith and Fulham,9,Bicycle,4915
+E09000013,Hammersmith and Fulham,10,On foot,9439
+E09000013,Hammersmith and Fulham,11,Other method of travel to work,1078
+E09000013,Hammersmith and Fulham,12,Not in employment or aged 15 years and under,85064
+E09000014,Haringey,1,Work mainly at or from home,55767
+E09000014,Haringey,2,"Underground, metro, light rail, tram",21629
+E09000014,Haringey,3,Train,5273
+E09000014,Haringey,4,"Bus, minibus or coach",15341
+E09000014,Haringey,5,Taxi,626
+E09000014,Haringey,6,"Motorcycle, scooter or moped",1107
+E09000014,Haringey,7,Driving a car or van,18436
+E09000014,Haringey,8,Passenger in a car or van,1457
+E09000014,Haringey,9,Bicycle,5226
+E09000014,Haringey,10,On foot,7920
+E09000014,Haringey,11,Other method of travel to work,1599
+E09000014,Haringey,12,Not in employment or aged 15 years and under,129857
+E09000015,Harrow,1,Work mainly at or from home,45175
+E09000015,Harrow,2,"Underground, metro, light rail, tram",15605
+E09000015,Harrow,3,Train,4721
+E09000015,Harrow,4,"Bus, minibus or coach",8673
+E09000015,Harrow,5,Taxi,516
+E09000015,Harrow,6,"Motorcycle, scooter or moped",590
+E09000015,Harrow,7,Driving a car or van,37918
+E09000015,Harrow,8,Passenger in a car or van,3223
+E09000015,Harrow,9,Bicycle,915
+E09000015,Harrow,10,On foot,6146
+E09000015,Harrow,11,Other method of travel to work,1555
+E09000015,Harrow,12,Not in employment or aged 15 years and under,136166
+E09000016,Havering,1,Work mainly at or from home,41654
+E09000016,Havering,2,"Underground, metro, light rail, tram",8363
+E09000016,Havering,3,Train,8721
+E09000016,Havering,4,"Bus, minibus or coach",6949
+E09000016,Havering,5,Taxi,739
+E09000016,Havering,6,"Motorcycle, scooter or moped",609
+E09000016,Havering,7,Driving a car or van,45890
+E09000016,Havering,8,Passenger in a car or van,3357
+E09000016,Havering,9,Bicycle,848
+E09000016,Havering,10,On foot,6101
+E09000016,Havering,11,Other method of travel to work,1550
+E09000016,Havering,12,Not in employment or aged 15 years and under,137271
+E09000017,Hillingdon,1,Work mainly at or from home,45193
+E09000017,Hillingdon,2,"Underground, metro, light rail, tram",9362
+E09000017,Hillingdon,3,Train,3714
+E09000017,Hillingdon,4,"Bus, minibus or coach",13357
+E09000017,Hillingdon,5,Taxi,670
+E09000017,Hillingdon,6,"Motorcycle, scooter or moped",772
+E09000017,Hillingdon,7,Driving a car or van,55421
+E09000017,Hillingdon,8,Passenger in a car or van,3711
+E09000017,Hillingdon,9,Bicycle,1627
+E09000017,Hillingdon,10,On foot,7226
+E09000017,Hillingdon,11,Other method of travel to work,1752
+E09000017,Hillingdon,12,Not in employment or aged 15 years and under,163104
+E09000018,Hounslow,1,Work mainly at or from home,45047
+E09000018,Hounslow,2,"Underground, metro, light rail, tram",10046
+E09000018,Hounslow,3,Train,5086
+E09000018,Hounslow,4,"Bus, minibus or coach",18538
+E09000018,Hounslow,5,Taxi,635
+E09000018,Hounslow,6,"Motorcycle, scooter or moped",1199
+E09000018,Hounslow,7,Driving a car or van,40771
+E09000018,Hounslow,8,Passenger in a car or van,3043
+E09000018,Hounslow,9,Bicycle,4056
+E09000018,Hounslow,10,On foot,8614
+E09000018,Hounslow,11,Other method of travel to work,1767
+E09000018,Hounslow,12,Not in employment or aged 15 years and under,149381
+E09000019,Islington,1,Work mainly at or from home,64530
+E09000019,Islington,2,"Underground, metro, light rail, tram",11099
+E09000019,Islington,3,Train,3063
+E09000019,Islington,4,"Bus, minibus or coach",9346
+E09000019,Islington,5,Taxi,689
+E09000019,Islington,6,"Motorcycle, scooter or moped",620
+E09000019,Islington,7,Driving a car or van,7871
+E09000019,Islington,8,Passenger in a car or van,552
+E09000019,Islington,9,Bicycle,6133
+E09000019,Islington,10,On foot,9922
+E09000019,Islington,11,Other method of travel to work,1146
+E09000019,Islington,12,Not in employment or aged 15 years and under,101619
+E09000020,Kensington and Chelsea,1,Work mainly at or from home,40010
+E09000020,Kensington and Chelsea,2,"Underground, metro, light rail, tram",6659
+E09000020,Kensington and Chelsea,3,Train,1164
+E09000020,Kensington and Chelsea,4,"Bus, minibus or coach",4057
+E09000020,Kensington and Chelsea,5,Taxi,1003
+E09000020,Kensington and Chelsea,6,"Motorcycle, scooter or moped",568
+E09000020,Kensington and Chelsea,7,Driving a car or van,5331
+E09000020,Kensington and Chelsea,8,Passenger in a car or van,487
+E09000020,Kensington and Chelsea,9,Bicycle,2377
+E09000020,Kensington and Chelsea,10,On foot,6820
+E09000020,Kensington and Chelsea,11,Other method of travel to work,962
+E09000020,Kensington and Chelsea,12,Not in employment or aged 15 years and under,73935
+E09000021,Kingston upon Thames,1,Work mainly at or from home,39251
+E09000021,Kingston upon Thames,2,"Underground, metro, light rail, tram",1457
+E09000021,Kingston upon Thames,3,Train,4946
+E09000021,Kingston upon Thames,4,"Bus, minibus or coach",5519
+E09000021,Kingston upon Thames,5,Taxi,228
+E09000021,Kingston upon Thames,6,"Motorcycle, scooter or moped",705
+E09000021,Kingston upon Thames,7,Driving a car or van,21101
+E09000021,Kingston upon Thames,8,Passenger in a car or van,1396
+E09000021,Kingston upon Thames,9,Bicycle,2379
+E09000021,Kingston upon Thames,10,On foot,6364
+E09000021,Kingston upon Thames,11,Other method of travel to work,802
+E09000021,Kingston upon Thames,12,Not in employment or aged 15 years and under,83915
+E09000022,Lambeth,1,Work mainly at or from home,91770
+E09000022,Lambeth,2,"Underground, metro, light rail, tram",18743
+E09000022,Lambeth,3,Train,8531
+E09000022,Lambeth,4,"Bus, minibus or coach",21125
+E09000022,Lambeth,5,Taxi,809
+E09000022,Lambeth,6,"Motorcycle, scooter or moped",1464
+E09000022,Lambeth,7,Driving a car or van,16994
+E09000022,Lambeth,8,Passenger in a car or van,1013
+E09000022,Lambeth,9,Bicycle,9711
+E09000022,Lambeth,10,On foot,10713
+E09000022,Lambeth,11,Other method of travel to work,1945
+E09000022,Lambeth,12,Not in employment or aged 15 years and under,134835
+E09000023,Lewisham,1,Work mainly at or from home,69977
+E09000023,Lewisham,2,"Underground, metro, light rail, tram",10775
+E09000023,Lewisham,3,Train,14407
+E09000023,Lewisham,4,"Bus, minibus or coach",17148
+E09000023,Lewisham,5,Taxi,628
+E09000023,Lewisham,6,"Motorcycle, scooter or moped",1011
+E09000023,Lewisham,7,Driving a car or van,24709
+E09000023,Lewisham,8,Passenger in a car or van,1529
+E09000023,Lewisham,9,Bicycle,5569
+E09000023,Lewisham,10,On foot,8146
+E09000023,Lewisham,11,Other method of travel to work,1813
+E09000023,Lewisham,12,Not in employment or aged 15 years and under,144841
+E09000024,Merton,1,Work mainly at or from home,48419
+E09000024,Merton,2,"Underground, metro, light rail, tram",12159
+E09000024,Merton,3,Train,5293
+E09000024,Merton,4,"Bus, minibus or coach",9251
+E09000024,Merton,5,Taxi,385
+E09000024,Merton,6,"Motorcycle, scooter or moped",1152
+E09000024,Merton,7,Driving a car or van,22618
+E09000024,Merton,8,Passenger in a car or van,1630
+E09000024,Merton,9,Bicycle,3237
+E09000024,Merton,10,On foot,6683
+E09000024,Merton,11,Other method of travel to work,1238
+E09000024,Merton,12,Not in employment or aged 15 years and under,103124
+E09000025,Newham,1,Work mainly at or from home,47737
+E09000025,Newham,2,"Underground, metro, light rail, tram",38371
+E09000025,Newham,3,Train,14011
+E09000025,Newham,4,"Bus, minibus or coach",14821
+E09000025,Newham,5,Taxi,802
+E09000025,Newham,6,"Motorcycle, scooter or moped",1063
+E09000025,Newham,7,Driving a car or van,28349
+E09000025,Newham,8,Passenger in a car or van,2373
+E09000025,Newham,9,Bicycle,3757
+E09000025,Newham,10,On foot,9818
+E09000025,Newham,11,Other method of travel to work,2344
+E09000025,Newham,12,Not in employment or aged 15 years and under,187591
+E09000026,Redbridge,1,Work mainly at or from home,49406
+E09000026,Redbridge,2,"Underground, metro, light rail, tram",20627
+E09000026,Redbridge,3,Train,8539
+E09000026,Redbridge,4,"Bus, minibus or coach",8172
+E09000026,Redbridge,5,Taxi,850
+E09000026,Redbridge,6,"Motorcycle, scooter or moped",638
+E09000026,Redbridge,7,Driving a car or van,40221
+E09000026,Redbridge,8,Passenger in a car or van,2978
+E09000026,Redbridge,9,Bicycle,1566
+E09000026,Redbridge,10,On foot,6768
+E09000026,Redbridge,11,Other method of travel to work,1862
+E09000026,Redbridge,12,Not in employment or aged 15 years and under,168633
+E09000027,Richmond upon Thames,1,Work mainly at or from home,57322
+E09000027,Richmond upon Thames,2,"Underground, metro, light rail, tram",2897
+E09000027,Richmond upon Thames,3,Train,4319
+E09000027,Richmond upon Thames,4,"Bus, minibus or coach",3929
+E09000027,Richmond upon Thames,5,Taxi,276
+E09000027,Richmond upon Thames,6,"Motorcycle, scooter or moped",649
+E09000027,Richmond upon Thames,7,Driving a car or van,17106
+E09000027,Richmond upon Thames,8,Passenger in a car or van,962
+E09000027,Richmond upon Thames,9,Bicycle,3888
+E09000027,Richmond upon Thames,10,On foot,5386
+E09000027,Richmond upon Thames,11,Other method of travel to work,832
+E09000027,Richmond upon Thames,12,Not in employment or aged 15 years and under,97713
+E09000028,Southwark,1,Work mainly at or from home,80842
+E09000028,Southwark,2,"Underground, metro, light rail, tram",14000
+E09000028,Southwark,3,Train,7054
+E09000028,Southwark,4,"Bus, minibus or coach",23288
+E09000028,Southwark,5,Taxi,791
+E09000028,Southwark,6,"Motorcycle, scooter or moped",1132
+E09000028,Southwark,7,Driving a car or van,14701
+E09000028,Southwark,8,Passenger in a car or van,882
+E09000028,Southwark,9,Bicycle,9537
+E09000028,Southwark,10,On foot,12998
+E09000028,Southwark,11,Other method of travel to work,1723
+E09000028,Southwark,12,Not in employment or aged 15 years and under,140689
+E09000029,Sutton,1,Work mainly at or from home,38024
+E09000029,Sutton,2,"Underground, metro, light rail, tram",3815
+E09000029,Sutton,3,Train,6442
+E09000029,Sutton,4,"Bus, minibus or coach",6899
+E09000029,Sutton,5,Taxi,436
+E09000029,Sutton,6,"Motorcycle, scooter or moped",952
+E09000029,Sutton,7,Driving a car or van,36070
+E09000029,Sutton,8,Passenger in a car or van,2412
+E09000029,Sutton,9,Bicycle,1561
+E09000029,Sutton,10,On foot,6484
+E09000029,Sutton,11,Other method of travel to work,1129
+E09000029,Sutton,12,Not in employment or aged 15 years and under,105415
+E09000030,Tower Hamlets,1,Work mainly at or from home,78219
+E09000030,Tower Hamlets,2,"Underground, metro, light rail, tram",21452
+E09000030,Tower Hamlets,3,Train,7111
+E09000030,Tower Hamlets,4,"Bus, minibus or coach",9010
+E09000030,Tower Hamlets,5,Taxi,896
+E09000030,Tower Hamlets,6,"Motorcycle, scooter or moped",787
+E09000030,Tower Hamlets,7,Driving a car or van,14106
+E09000030,Tower Hamlets,8,Passenger in a car or van,985
+E09000030,Tower Hamlets,9,Bicycle,7208
+E09000030,Tower Hamlets,10,On foot,13900
+E09000030,Tower Hamlets,11,Other method of travel to work,1721
+E09000030,Tower Hamlets,12,Not in employment or aged 15 years and under,154914
+E09000031,Waltham Forest,1,Work mainly at or from home,52765
+E09000031,Waltham Forest,2,"Underground, metro, light rail, tram",25097
+E09000031,Waltham Forest,3,Train,6810
+E09000031,Waltham Forest,4,"Bus, minibus or coach",10142
+E09000031,Waltham Forest,5,Taxi,762
+E09000031,Waltham Forest,6,"Motorcycle, scooter or moped",858
+E09000031,Waltham Forest,7,Driving a car or van,27532
+E09000031,Waltham Forest,8,Passenger in a car or van,1974
+E09000031,Waltham Forest,9,Bicycle,4975
+E09000031,Waltham Forest,10,On foot,7773
+E09000031,Waltham Forest,11,Other method of travel to work,1684
+E09000031,Waltham Forest,12,Not in employment or aged 15 years and under,138054
+E09000032,Wandsworth,1,Work mainly at or from home,107639
+E09000032,Wandsworth,2,"Underground, metro, light rail, tram",16503
+E09000032,Wandsworth,3,Train,7948
+E09000032,Wandsworth,4,"Bus, minibus or coach",13863
+E09000032,Wandsworth,5,Taxi,821
+E09000032,Wandsworth,6,"Motorcycle, scooter or moped",1747
+E09000032,Wandsworth,7,Driving a car or van,17724
+E09000032,Wandsworth,8,Passenger in a car or van,1041
+E09000032,Wandsworth,9,Bicycle,9146
+E09000032,Wandsworth,10,On foot,12338
+E09000032,Wandsworth,11,Other method of travel to work,1671
+E09000032,Wandsworth,12,Not in employment or aged 15 years and under,137064
+E09000033,Westminster,1,Work mainly at or from home,56766
+E09000033,Westminster,2,"Underground, metro, light rail, tram",9768
+E09000033,Westminster,3,Train,2080
+E09000033,Westminster,4,"Bus, minibus or coach",7075
+E09000033,Westminster,5,Taxi,993
+E09000033,Westminster,6,"Motorcycle, scooter or moped",569
+E09000033,Westminster,7,Driving a car or van,6703
+E09000033,Westminster,8,Passenger in a car or van,542
+E09000033,Westminster,9,Bicycle,3600
+E09000033,Westminster,10,On foot,12238
+E09000033,Westminster,11,Other method of travel to work,1409
+E09000033,Westminster,12,Not in employment or aged 15 years and under,102494

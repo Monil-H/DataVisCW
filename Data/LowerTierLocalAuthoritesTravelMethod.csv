@@ -1,4 +1,4 @@
-areaCode,Name,MethodCode,Method,Observation
+AreaCode,AreaName,MethodCode,TravelMethod,Observation
 E06000001,Hartlepool,1,Work mainly at or from home,6570
 E06000001,Hartlepool,2,"Underground, metro, light rail, tram",33
 E06000001,Hartlepool,3,Train,269
