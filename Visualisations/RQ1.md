@@ -303,16 +303,127 @@ facetBars =
     toVegaLite [ height 100, width 120, data, bar [], enc [] ]
 ```
 
-```elm {v l highlight=9}
+```elm {v l interactive}
 facetBars2 : Spec
 facetBars2 =
     let
+
+        data3 =
+            dataFromUrl "https://raw.githubusercontent.com/Monil-H/DataVisCW/main/Data/EngWalesRegionsTravelMethods.csv"
+
+        filterTransform =
+            transform
+                << filter (fiExpr "datum.MethodCode != 12")
+                --<< filter (fiExpr "datum.MethodCode == 'mySelection'")
+        enc =
+            encoding
+             << column [ fName "TravelMethod", fHeader [ hdTitleFontSize 0 ] ]
+                << position X [ pName "RegionName", pNominal, pTitle "RegionName" ]
+                << position Y [ pName "Observation", pQuant ]
+                << color [ mName "TravelMethod", mScale crimeColours3, mLegend [] ]
+               << tooltips
+                    [[ tName "MethodCode", tNominal ],
+                        [ tName "Observation", tQuant]]
+    in
+    toVegaLite [ height 100, width 120, data3 [],filterTransform [], bar [], enc [] ]
+```
+
+```elm {v l interactive}
+facetBars3 : Spec
+facetBars3 =
+    let
+
+        data3 =
+            dataFromUrl "https://raw.githubusercontent.com/Monil-H/DataVisCW/main/Data/EngWalesRegionsTravelMethods.csv"
+
+        filterTransform =
+            transform
+                << filter (fiExpr "datum.MethodCode != 12")
+                << filter (fiExpr "datum.MethodCode != 12")
+        enc =
+            encoding
+             << column [ fName "RegionName", fHeader [ hdTitleFontSize 0 ] ]
+                << position X [ pName "TravelMethod", pNominal, pTitle "RegionName" ]
+                << position Y [ pName "Observation", pQuant ]
+                << color [ mName "TravelMethod", mScale crimeColours3, mLegend [] ]
+               << tooltips
+                    [[ tName "MethodCode", tNominal ],
+                        [ tName "Observation", tQuant]]
+    in
+
+    toVegaLite [ height 100, width 120, data3 [],filterTransform [], bar [], enc [] ]
+```
+
+```elm {v l interactive highlight=[5,6,13-16]}
+facetBarsInteractive : Spec
+facetBarsInteractive =
+    let
+        ps =
+            params
+                << param "barSelection" [ paSelect seInterval [ seEncodings [ chX ] ] ]
+
+        enc =
+            encoding
+                << position X [ pName "month", pTemporal, pTitle "" ]
+                << position Y [ pName "reportedCrimes", pAggregate opSum ]
+                << color
+                    [ mCondition (prParam "barSelection")
+                        [ mName "crimeType", mScale crimeColours, mLegend [] ]
+                        [ mStr "rgb(206,194,186)" ]
+                    ]
+                << column [ fName "crimeType", fHeader [ hdTitleFontSize 0 ] ]
+    in
+    toVegaLite [ height 100, width 120, data, ps [], bar [], enc [] ]
+```
+
+```elm {v l highlight=9}
+facetBarsInRows : Spec
+facetBarsInRows =
+    let
+
+        data3 =
+            dataFromUrl "https://raw.githubusercontent.com/Monil-H/DataVisCW/main/Data/EngWalesRegionsTravelMethods.csv"
+
+        filterTransform =
+            transform
+                << filter (fiExpr "datum.MethodCode != 12")
+                << filter (fiExpr "datum.MethodCode != 12")
         enc =
             encoding
                 << position X [ pName "RegionName", pNominal, pTitle "RegionName" ]
-                << position Y [ pName "Observation", pAggregate opSum ]
-                << color [ mName "MethodCode", mScale crimeColours3, mLegend [] ]
-                << column [ fName "MethodCode", fHeader [ hdTitleFontSize 0 ] ]
+                << position Y [ pName "Observation", pQuant ]
+                << color [ mName "TravelMethod", mScale crimeColours3, mLegend [] ]
+                << row [ fName "TravelMethod" ]
+
+        res =
+            resolve
+                << resolution (reScale [ ( chY, reIndependent ) ])
     in
-    toVegaLite [ height 100, width 120, data2 [], bar [], enc [] ]
+    toVegaLite [ height 100, width 455, data3 [], bar [], enc [], res [] ]
+```
+
+```elm {v l highlight=9}
+facetBarsInRows2 : Spec
+facetBarsInRows2 =
+    let
+
+        data3 =
+            dataFromUrl "https://raw.githubusercontent.com/Monil-H/DataVisCW/main/Data/EngWalesRegionsTravelMethods.csv"
+
+        filterTransform =
+            transform
+                << filter (fiExpr "datum.MethodCode != 12")
+                << filter (fiExpr "datum.MethodCode != 12")
+        enc =
+            encoding
+                << position X [ pName "TravelMethod", pNominal]
+                << position Y [ pName "Observation", pQuant ]
+                << color [ mName "TravelMethod", mScale crimeColours3, mLegend [] ]
+                << row [ fName "RegionName" ]
+
+        res =
+            resolve
+                << resolution (reScale [ ( chY, reIndependent ) ])
+    in
+    toVegaLite [ height 100, width 455, data3 [], bar [], enc [], res [] ]
 ```
