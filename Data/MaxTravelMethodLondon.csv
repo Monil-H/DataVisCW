@@ -1,0 +1,34 @@
+AreaCode,Borough,MethodCode,TravelMethod,Observation
+E09000002,Barking and Dagenham,7,Driving a car or van,30732
+E09000003,Barnet,7,Driving a car or van,46797
+E09000004,Bexley,7,Driving a car or van,42503
+E09000005,Brent,7,Driving a car or van,34917
+E09000006,Bromley,7,Driving a car or van,45304
+E09000007,Camden,10,On foot,10620
+E09000001,City of London,10,On foot,758
+E09000008,Croydon,7,Driving a car or van,52381
+E09000009,Ealing,7,Driving a car or van,42941
+E09000010,Enfield,7,Driving a car or van,46721
+E09000011,Greenwich,7,Driving a car or van,28623
+E09000012,Hackney,4,"Bus, minibus or coach",13995
+E09000013,Hammersmith and Fulham,2,"Underground, metro, light rail, tram",11578
+E09000014,Haringey,2,"Underground, metro, light rail, tram",21629
+E09000015,Harrow,7,Driving a car or van,37918
+E09000016,Havering,7,Driving a car or van,45890
+E09000017,Hillingdon,7,Driving a car or van,55421
+E09000018,Hounslow,7,Driving a car or van,40771
+E09000019,Islington,2,"Underground, metro, light rail, tram",11099
+E09000020,Kensington and Chelsea,10,On foot,6820
+E09000021,Kingston upon Thames,7,Driving a car or van,21101
+E09000022,Lambeth,4,"Bus, minibus or coach",21125
+E09000023,Lewisham,7,Driving a car or van,24709
+E09000024,Merton,7,Driving a car or van,22618
+E09000025,Newham,2,"Underground, metro, light rail, tram",38371
+E09000026,Redbridge,7,Driving a car or van,40221
+E09000027,Richmond upon Thames,7,Driving a car or van,17106
+E09000028,Southwark,4,"Bus, minibus or coach",23288
+E09000029,Sutton,7,Driving a car or van,36070
+E09000030,Tower Hamlets,2,"Underground, metro, light rail, tram",21452
+E09000031,Waltham Forest,7,Driving a car or van,27532
+E09000032,Wandsworth,7,Driving a car or van,17724
+E09000033,Westminster,10,On foot,12238
