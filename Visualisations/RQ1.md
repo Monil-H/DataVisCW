@@ -12,6 +12,10 @@ import Tidy exposing (..)
 import VegaLite exposing (..)
 ```
 
+### Exploring Travel Methods Within UK and Wales Regions
+
+**Visualisation 1 :** Travel Methods Across Each Region
+
 ```elm {l=hidden}
 
 travelMethodsRegionsData =
@@ -120,7 +124,7 @@ regionMethodIndividual3 =
     toVegaLite [ height 100, width 120, travelMethodsRegionsData [], filterTransform [], regionMethodparams[] , bar [], regionMethodEnc []]
 ```
 
-ddd
+**Visualisation 2 :** Regional Distribution of Each Travel Method
 
 ```elm {v interactive}
 methodRegionIndividual : Spec
