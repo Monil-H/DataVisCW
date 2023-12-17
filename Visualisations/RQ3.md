@@ -12,25 +12,32 @@ import Tidy exposing (..)
 import VegaLite exposing (..)
 ```
 
-```elm {interactive l v highlight=15}
-londonChoropleth2 : Spec
-londonChoropleth2 =
-    let
-        geoData =
-            dataFromUrl "https://gicentre.github.io/data/census21/ewLAs.json"
-                [ topojsonFeature "las" ]
+```elm {l=hidden}
 
-        londonTravelData =
-            dataFromUrl "https://raw.githubusercontent.com/Monil-H/DataVisCW/main/Data/WFHLowerTierLocalAuthoritesExtra.csv"
+wfhEnglandGeoData =
+    dataFromUrl "https://gicentre.github.io/data/census21/ewLAs.json"
+        [ topojsonFeature "las" ]
 
+workFromHomeData =
+    dataFromUrl "https://raw.githubusercontent.com/Monil-H/DataVisCW/main/Data/WFHLowerTierLocalAuthoritesExtra.csv"
 
-        trans =
-            transform
-                << lookup "properties.label" (londonTravelData []) "AreaName" (luFields [ "Observation","AreaName","MethodCode","TravelMethod","PercentOfArea" ])
-
-        proj =
+proj =
             projection [ prType transverseMercator, prRotate 2 0 0 ]
 
+workFromHomeTrans =
+    transform
+        << lookup "properties.code" (workFromHomeData []) "AreaCode" (luFields [ "AreaCode" ,"Observation","AreaName","MethodCode","TravelMethod","PercentOfArea" ])
+cfg =
+    configure
+        << configuration (coView [ vicoStroke Nothing ])
+        << configuration (coLegend [ lecoOrient loBottomRight, lecoOffset 0 ])
+
+```
+
+```elm {interactive l v highlight=15}
+wfhEnglandChoroplethObs : Spec
+wfhEnglandChoroplethObs =
+    let
         enc =
             encoding
                 << color
@@ -39,23 +46,34 @@ londonChoropleth2 =
                     , mTitle "Population that work from Home"
                     ]
                 << tooltips
-                    [ [  tName "properties.label",tNominal,tTitle "Region"  ]
+                    [ [  tName "AreaName",tNominal,tTitle "Region"  ]
                     , [ tName "Observation", tQuant]
+                    , [ tName "PercentOfArea", tQuant]
                     ]
 
-        cfg =
-            configure
-                << configuration (coView [ vicoStroke Nothing ])
-                << configuration (coLegend [ lecoOrient loBottomRight, lecoOffset 0 ])
+
     in
-    toVegaLite
-        [ width 600
-        , height 450
-        , cfg []
-        , geoData
-        , trans []
-        , proj
-        , enc []
-        , geoshape [ maStroke "white" ]
-        ]
+    toVegaLite [width 600, height 750, cfg [], wfhEnglandGeoData, workFromHomeTrans [], proj, enc [], geoshape [maStroke "black"]]
+```
+
+```elm {interactive l v highlight=15}
+wfhEnglandChoroplethPer : Spec
+wfhEnglandChoroplethPer =
+    let
+        enc =
+            encoding
+                << color
+                    [ mName "PercentOfArea"
+                    , mQuant
+                    , mTitle "Percent of area that work from home"
+                    ]
+                << tooltips
+                    [ [  tName "AreaName",tNominal,tTitle "Region"  ]
+                    , [ tName "Observation", tQuant]
+                    , [ tName "PercentOfArea", tQuant]
+                    ]
+
+
+    in
+    toVegaLite [width 600, height 750, cfg [], wfhEnglandGeoData, workFromHomeTrans [], proj, enc [], geoshape [maStroke "black"]]
 ```
