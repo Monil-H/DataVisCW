@@ -12,6 +12,10 @@ import Tidy exposing (..)
 import VegaLite exposing (..)
 ```
 
+### Exploring Travel Methods Within Metropolitan Areas
+
+**Visualisation 3 (V3) :** Most Used Travel Mehonds For Each Boroughs in London
+
 ```elm {l=hidden}
 londonGeoData =
     dataFromUrl "https://gicentre.github.io/data/geoTutorials/londonBoroughs.json"
